@@ -21,10 +21,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 # Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/mishra016/Leetcode/tree/master/0409-longest-palindrome) |
 # Divide and Conquer
 |  |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 # Counting
 |  |
 | ------- |
