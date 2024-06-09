@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0648-replace-words](https://github.com/mishra016/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/mishra016/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
 # Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [0409-longest-palindrome](https://github.com/mishra016/Leetcode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/mishra016/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/mishra016/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
 # Divide and Conquer
 |  |
@@ -57,3 +59,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/mishra016/Leetcode/tree/master/0648-replace-words) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/mishra016/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
