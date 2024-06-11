@@ -30,6 +30,7 @@
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mishra016/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 # Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mishra016/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
+| [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 # Counting
 |  |
 | ------- |
@@ -71,3 +74,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mishra016/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
