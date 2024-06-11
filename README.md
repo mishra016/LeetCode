@@ -78,3 +78,7 @@
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/mishra016/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
