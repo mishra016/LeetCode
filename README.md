@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mishra016/Leetcode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/mishra016/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishra016/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0648-replace-words](https://github.com/mishra016/Leetcode/tree/master/0648-replace-words) |
@@ -50,6 +52,7 @@
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
