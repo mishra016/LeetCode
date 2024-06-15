@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/mishra016/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/mishra016/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mishra016/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/mishra016/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -29,6 +30,7 @@
 | [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
+| [0502-ipo](https://github.com/mishra016/Leetcode/tree/master/0502-ipo) |
 | [0648-replace-words](https://github.com/mishra016/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mishra016/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -57,6 +59,7 @@
 | [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mishra016/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
+| [0502-ipo](https://github.com/mishra016/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/mishra016/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mishra016/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
@@ -97,3 +100,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mishra016/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/mishra016/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/mishra016/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/mishra016/Leetcode/tree/master/0502-ipo) |
