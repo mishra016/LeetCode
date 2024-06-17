@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/mishra016/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/mishra016/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -106,3 +107,11 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/mishra016/Leetcode/tree/master/0502-ipo) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
