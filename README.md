@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mishra016/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/mishra016/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mishra016/Leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/mishra016/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mishra016/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mishra016/Leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/mishra016/Leetcode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/mishra016/Leetcode/tree/master/0648-replace-words) |
