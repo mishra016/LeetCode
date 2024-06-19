@@ -46,6 +46,7 @@
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mishra016/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishra016/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
 | ------- |
@@ -125,3 +126,4 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/mishra016/Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishra016/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
