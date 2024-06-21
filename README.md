@@ -130,8 +130,13 @@
 # Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mishra016/Leetcode/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/mishra016/Leetcode/tree/master/0792-binary-search) |
 | [0853-most-profit-assigning-work](https://github.com/mishra016/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishra016/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mishra016/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+# Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mishra016/Leetcode/tree/master/0278-first-bad-version) |
