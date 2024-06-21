@@ -126,10 +126,12 @@
 # Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mishra016/Leetcode/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/mishra016/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/mishra016/Leetcode/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/mishra016/Leetcode/tree/master/0792-binary-search) |
