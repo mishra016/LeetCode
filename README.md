@@ -45,6 +45,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/mishra016/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/mishra016/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/mishra016/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mishra016/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishra016/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -142,3 +143,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/mishra016/Leetcode/tree/master/0278-first-bad-version) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/mishra016/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
