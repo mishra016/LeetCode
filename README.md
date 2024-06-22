@@ -48,6 +48,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/mishra016/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mishra016/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mishra016/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mishra016/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/mishra016/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -63,6 +64,7 @@
 | [1044-find-common-characters](https://github.com/mishra016/Leetcode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/mishra016/Leetcode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mishra016/Leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mishra016/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/mishra016/Leetcode/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/mishra016/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mishra016/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Binary Search
 |  |
 | ------- |
@@ -147,3 +150,4 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/mishra016/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/mishra016/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
