@@ -234,4 +234,8 @@
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mishra016/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/mishra016/Leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
