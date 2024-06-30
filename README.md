@@ -213,6 +213,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mishra016/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -238,4 +239,12 @@
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/mishra016/Leetcode/tree/master/3379-score-of-a-string) |
+## Array
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
