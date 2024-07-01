@@ -244,6 +244,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
+| [1293-three-consecutive-odds](https://github.com/mishra016/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Counting Sort
 |  |
 | ------- |
