@@ -286,13 +286,19 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mishra016/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mishra016/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mishra016/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
