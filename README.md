@@ -287,11 +287,13 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mishra016/Leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mishra016/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mishra016/Leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mishra016/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -301,4 +303,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/mishra016/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
