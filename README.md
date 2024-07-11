@@ -240,6 +240,7 @@
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishra016/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3379-score-of-a-string](https://github.com/mishra016/Leetcode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
@@ -306,4 +307,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mishra016/Leetcode/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishra016/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
