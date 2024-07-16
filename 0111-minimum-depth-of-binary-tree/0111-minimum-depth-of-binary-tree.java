@@ -20,20 +20,20 @@ class Solution {
             return 0;
         }
 
-        int left = minDepth(root.left);
-        int right = minDepth(root.right);
+        // int left = minDepth(root.left);
+        // int right = minDepth(root.right);
 
         //if curr has no left
         if(root.left==null){
-            return right + 1;
+            return minDepth(root.right) + 1;
         }
 
         //if curr has no right
         if(root.right==null){
-            return left + 1;
+            return minDepth(root.left) + 1;
         }
 
-        return Math.min(left, right) + 1;
+        return Math.min(minDepth(root.left), minDepth(root.right)) + 1;
         
     }
 }
