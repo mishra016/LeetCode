@@ -223,11 +223,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishra016/Leetcode/tree/master/0100-same-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mishra016/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mishra016/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishra016/Leetcode/tree/master/0100-same-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mishra016/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -257,6 +259,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishra016/Leetcode/tree/master/0100-same-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mishra016/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -266,6 +269,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mishra016/Leetcode/tree/master/0100-same-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mishra016/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Hash Table
 |  |
