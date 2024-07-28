@@ -250,6 +250,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mishra016/Leetcode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/mishra016/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -269,6 +270,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mishra016/Leetcode/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mishra016/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
