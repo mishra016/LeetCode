@@ -214,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mishra016/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mishra016/Leetcode/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/mishra016/Leetcode/tree/master/0463-island-perimeter) |
 | [1039-find-the-town-judge](https://github.com/mishra016/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -295,6 +297,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/mishra016/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
