@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mishra016/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1137-height-checker](https://github.com/mishra016/Leetcode/tree/master/1137-height-checker) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mishra016/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -252,6 +253,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mishra016/Leetcode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishra016/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3379-score-of-a-string](https://github.com/mishra016/Leetcode/tree/master/3379-score-of-a-string) |
 ## Array
@@ -298,6 +300,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mishra016/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1039-find-the-town-judge](https://github.com/mishra016/Leetcode/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
