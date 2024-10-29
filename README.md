@@ -253,6 +253,7 @@
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/mishra016/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/mishra016/Leetcode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishra016/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [3379-score-of-a-string](https://github.com/mishra016/Leetcode/tree/master/3379-score-of-a-string) |
@@ -324,6 +325,7 @@
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/mishra016/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/mishra016/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/mishra016/Leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mishra016/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
