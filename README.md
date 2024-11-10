@@ -230,6 +230,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/mishra016/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mishra016/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mishra016/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/mishra016/Leetcode/tree/master/0463-island-perimeter) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/mishra016/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -240,6 +241,7 @@
 | [0100-same-tree](https://github.com/mishra016/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mishra016/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mishra016/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mishra016/Leetcode/tree/master/0463-island-perimeter) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/mishra016/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
@@ -249,6 +251,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/mishra016/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## String
 |  |
@@ -262,6 +265,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mishra016/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mishra016/Leetcode/tree/master/0035-search-insert-position) |
+| [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/mishra016/Leetcode/tree/master/0463-island-perimeter) |
@@ -364,5 +368,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mishra016/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
