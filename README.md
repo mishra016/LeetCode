@@ -203,6 +203,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mishra016/Leetcode/tree/master/0055-jump-game) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mishra016/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -272,6 +273,7 @@
 | [0035-search-insert-position](https://github.com/mishra016/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/mishra016/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/mishra016/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mishra016/Leetcode/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mishra016/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/mishra016/Leetcode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/mishra016/Leetcode/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
