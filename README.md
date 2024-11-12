@@ -216,6 +216,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mishra016/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mishra016/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mishra016/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -262,6 +263,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/mishra016/Leetcode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/mishra016/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/mishra016/Leetcode/tree/master/0242-valid-anagram) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/mishra016/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -272,6 +274,7 @@
 | [0001-two-sum](https://github.com/mishra016/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mishra016/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/mishra016/Leetcode/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/mishra016/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mishra016/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mishra016/Leetcode/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/mishra016/Leetcode/tree/master/0200-number-of-islands) |
@@ -316,6 +319,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mishra016/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/mishra016/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/mishra016/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/mishra016/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/mishra016/Leetcode/tree/master/0217-contains-duplicate) |
